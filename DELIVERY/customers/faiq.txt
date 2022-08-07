@@ -1,0 +1,6 @@
+Category: DELIVERY\
+BEEF GRILLED BURGER:   695
+Quantity of burgers : 2
+Price For 2 Burgers: 1390
+Delivery Charges For malir : 400
+So Your Total Bill is 1480 + (400)Delivery Charges = 1880

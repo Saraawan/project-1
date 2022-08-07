@@ -1,0 +1,4 @@
+Size of pizza
+press 1 for: Small--------PKR 400/--
+press 2 for: Regular------PKR 700/--
+press 3 for: Large--------PKR 1100/--

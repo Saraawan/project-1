@@ -1,0 +1,2 @@
+press 1 for: BURGERS
+press 2 for: PIZZA

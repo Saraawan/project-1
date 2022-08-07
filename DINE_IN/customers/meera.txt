@@ -1,0 +1,17 @@
+Category: DINE_IN\
+CHOCLATE FUDGE CAKE:   1050
+Quantity of choclate fudge cake : 2
+Price For 2choclate fudge cake : 2100
+Category: DINE_IN\
+RASMALAI:   500
+Quantity of Rasmalai : 3
+Price For 3 Rasmalai: 1500
+Category: DINE_IN\
+SPRITE:   80
+Quantity of SPRITE : 4
+Price For 4 sprite : 320
+Category: DINE_IN\
+CARDAMON TEA:   90
+Quantity of Cardamom Tea : 3
+Price For 3 Cardamom Tea : 270
+Your Total Bill 9140

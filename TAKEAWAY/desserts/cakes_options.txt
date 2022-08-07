@@ -1,0 +1,4 @@
+press a for: Chocolate fudge cake-------PKR 1050/--
+press b for: Red velvet cake------------PKR 1100/--
+press c for: Black forest cake----------PKR 800/--
+press d for: Milky malt cake------------PKR 950/--

@@ -1,0 +1,6 @@
+BEEF GRILLED BURGER:   695
+Quantity of burgers : 3
+Price For 3 Burgers: 2085
+customer total bill: 2085
+
+

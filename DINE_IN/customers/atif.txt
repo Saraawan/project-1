@@ -1,0 +1,14 @@
+Category: DINE_IN\
+BEEF GRILLED BURGER:   695
+Quantity of burgers : 6
+Price For 6 Burgers: 4170
+Category: DINE_IN\
+BEEF GRILLED BURGER:   695
+Quantity of burgers : 1
+Price For 1 Burgers: 695
+Your Total Bill 695
+11465Category: DINE_IN\
+BEEF GRILLED BURGER:   695
+Quantity of burgers : 1
+Price For 1 Burgers: 695
+Your Total Bill 695

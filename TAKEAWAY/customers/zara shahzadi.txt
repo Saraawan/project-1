@@ -1,0 +1,9 @@
+Category: TAKEAWAY\
+CHICKEN JALAPENO BURGER:   750
+Quantity of burgers : 1
+Price For 1 Burgers: 750
+Category: TAKEAWAY\
+RASMALAI:   500
+Quantity of Rasmalai : 1
+Price For 1 Rasmalai: 500
+Your Total Bill is 1250

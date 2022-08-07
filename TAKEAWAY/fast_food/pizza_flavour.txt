@@ -1,0 +1,5 @@
+choose flavours
+press a for: chicken fajita
+press b for: creamy tikka
+press c for: cheese pizza
+press d for: veggies pizza

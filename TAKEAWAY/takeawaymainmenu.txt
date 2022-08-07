@@ -1,0 +1,8 @@
+==================================================================================
+				TakeAway Manu
+==================================================================================
+You Choose Takeaway You can't Access Full Menu
+These Are The Option You Can Avail
+Press 1 to choose Fast food
+Press 2 to choose Deserts
+Press 3 to choose Beverages

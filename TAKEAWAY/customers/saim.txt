@@ -1,0 +1,9 @@
+Category: TAKEAWAY\
+CHICKEN JALAPENO BURGER:   750
+Quantity of burgers : 2
+Price For 2 Burgers: 1500
+Category: TAKEAWAY\
+SPRITE:   80
+Quantity of SPRITE : 2
+Price For 2 sprite : 160
+Your Total Bill is 1660

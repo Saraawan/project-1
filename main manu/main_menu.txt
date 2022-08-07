@@ -1,0 +1,4 @@
+Press 1 for: DINE IN
+Press 2 for: TAKEAWAY
+Press 3 for: DELIVERY
+Press 4 for: EXIT
